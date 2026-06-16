@@ -52,7 +52,7 @@ div.text {
 /* 
   For the following rule we removed the original .confirm selector:
 
-  .confirm {
+  .button.confirm {
     background: green;
     color: white;
     font-weight: bold;
